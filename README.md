@@ -10,3 +10,5 @@ Goals
 - Best UX/UI
 - Best first time
 - Best banking plan
+
+- Changes
